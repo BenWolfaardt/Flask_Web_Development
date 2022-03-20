@@ -10,3 +10,10 @@ The projects I created whilst reading the above mentioned book as well as import
 - [Book's GitHub](https://github.com/miguelgrinberg/flasky)
 - [Book's Website](https://flaskbook.com/)
 <!-- TODO add other links I've highlighted -->
+
+### Commit History
+
+#### `hello.py` 
+
+1. Example 2-1
+2. Example 2-2
